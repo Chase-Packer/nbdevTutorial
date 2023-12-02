@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevTutorial"
+  site-url: "https://Chase-Packer.github.io/nbdevTutorial"
+  description: "Tutorial for nbdev for CSCI 435"
+  repo-branch: main
+  repo-url: "https://github.com/Chase-Packer/nbdevTutorial"
